@@ -1,0 +1,1030 @@
+@media screen and (max-width:639px) {
+	.header_wrapper {
+		padding: 5px 0;
+	}
+	.header_logo img {
+		width: 165px;
+		margin-top: 5px;
+	}
+
+	.header_info a {
+		font-size: 20px;
+	}
+
+	.top_main {
+		padding: 20px 0;
+	}
+
+	.main_title {
+	    margin-bottom: 140px;
+	}
+
+	.top_main_title_1,
+	.top_main_title_2 {
+		font-size: 26px;
+	}
+
+	.top_main_title_2 {
+		line-height: 40px;
+	}
+
+	.accent1 {
+		font-size: 40px;
+	}
+
+	.top_main_title_3 {
+		font-size: 44px;
+		line-height: 50px;
+	}
+
+	.top_main_title_4 {
+		font-size: 18px;
+		line-height: 40px;
+	}
+
+	.accent2 {
+		font-size: 30px;
+	}
+
+	.pop_right { 
+	    left: 0;
+	    top: 210px;
+	}
+
+	.top_pop1 {
+		width: 130px;
+		height: 125px;
+		background-size: contain;
+	}
+
+	.main_pop1 {
+		font-size: 18px;
+	}
+
+	.main_pop2 {
+		font-size: 32px;
+	}
+
+	.top_pop2 {
+		width: 80px;
+		height: 80px;
+		background-size: contain;
+		left: -65px;
+	    top: 75px;
+	}
+
+	.sub_pop1 {
+		font-size: 11px;
+	}
+
+	.sub_pop2 {
+		font-size: 14px;
+	}
+
+	.top_contact {
+		z-index: 10;
+		position: relative;
+	    width: 100%;
+	}
+
+	.cnotact_sentence {
+		font-size: 13px;
+	}
+
+	.contact_btn {
+		margin: 10px auto 0;
+		width: 96%;
+	}
+
+	.contact_btn_text {
+		padding: 0; 
+	}
+
+	.btn_text_big {
+		font-size: 20px;
+	}
+
+	.nationwide {
+		padding: 0 0 25px;
+	}
+
+	.nationwide_sub_title_1 {
+		font-size: 18px;
+		padding: 45px 0 0;
+	}
+
+	.nationwide_sub_title_2 {
+		font-size: 20px;
+	}
+
+	.nationwide_pop1 {
+	    top: 40px;
+	    left: 190px;
+	    width: 120px;
+	}
+
+	.nationwide_branch h3 {
+		font-size: 14px;
+	}
+
+	.nationwide_branch_list1,
+	.nationwide_branch_list2 {
+		font-size: 12px;
+		line-height: 24px;
+	}
+
+	.nationwide_pop2 {
+        width: 150px;
+		left: 256px;
+		top: 13px;
+	}
+
+	.nationwide_pop2 img {
+		width: 100%;
+	}
+
+	.img_pc {
+		top: -310px;
+		right: -55px;
+		z-index: 1; 
+	}
+
+	.img_pc img {
+		width: 295px;
+	}
+
+	.campaign {
+		background-size: cover;
+		width: 100%;
+	}
+
+	.campaign_title img {
+		width: 98%;
+	}
+
+	.campaign_period {
+		font-size: 13px;
+	    width: 340px;
+		height: 30px;
+		margin: 20px auto;
+	}
+
+	.campaign_wrapper {
+		display: block;
+	}
+
+	.campaign_new_text {
+		font-size: 24px;
+		margin: 0 0 10px;
+	}
+
+	.campaign_renewal_text {
+		font-size: 24px;
+		margin: 20px 0 10px; 
+	}
+
+	.campaign_service {
+		display: block;
+	}
+
+	.campaign_renewal_details {
+		font-size: 10px;
+	}
+
+	.campaign_first_arrival {
+		display: block;
+		text-align: center;
+		width: 125px;
+	    font-size: 17px;
+	    margin: 0 auto;
+	    height: auto;
+	    padding: 5px 20px;
+	}
+
+	.campaign_option {
+		display: block;
+		font-size: 19px;
+		text-align: center;
+	}
+
+	.hp_production {
+		padding: 120px 0 0;
+	}
+
+	.hp_production_title1 {
+		font-size: 16px;
+	}
+
+	.hp_production_title2 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+
+	.production_details {
+	    margin-top: 30px;
+	    font-size: 14px;
+	    text-align: center;
+	    line-height: 25px;
+    }
+
+    .hp_wrapper {
+    	margin-top: 40px;
+    }
+
+    .hp_company {
+    	width: 49%;
+    }
+
+    .hp_wrapper img {
+		width: 100%;
+		height: auto;
+    }
+
+    .hp_wrapper p {
+    	margin: 0;
+    }
+
+    .hp_job_name {
+    	font-size: 15px
+    }
+
+    .hp_wrapper a {
+    	font-size: 12px;
+    }
+
+    .hp_strength_title1 {
+    	font-size: 16px;
+    }
+
+    .hp_strength_title2 {
+    	font-size: 24px;
+    }
+
+    .hp_strength_gray, 
+    .hp_strength_white {
+    	width: 100%;
+    	background: #fff;
+    	padding: 15px 20px;
+    }
+
+    .hp_strength_list span {
+    	width: 40px;
+	    height: 40px;
+	    font-size: 15px;
+	    background-size: cover;
+	    margin: 0 auto 10px;
+    }
+
+    .hp_strength_text {
+    	font-size: 21px;
+    }
+
+    .strength_list_title {
+    	min-height: 0;
+    	margin-bottom: 0;
+    }
+
+    .hp_strength_details {
+    	font-size: 14px;
+    	line-height: 30px;
+    }
+
+    .hp_strength_gray_comment {
+    	height: 210px;
+    }
+
+    .speech_bubble {
+    	background-size: contain;
+	    font-size: 14px;
+	    padding: 15px 20px 25px;
+	    height: 120px;
+	    margin: 0 auto;
+	    width: 278px;
+	    right: 45px;
+    }
+
+    .hp_strength_img {
+    	width: 80px;
+	    right: 22px;
+    }
+
+    .contact_button1_wrapper {
+    	padding: 40px 0;
+    	height: 160px;
+    }
+
+    .contact_button1_text {
+    	margin: 0;
+    }
+
+    .contact_button1_text_1 {
+    	font-size: 14px;
+    }
+
+    .contact_button1_text_2 {
+    	font-size: 20px;
+    }
+
+    .contact_button1_text:before {
+    	left: 10px;
+    }
+
+    .contact_button1_text:after {
+    	right: 10px;
+    }
+
+    .big_button {
+    	width: 96%;
+    	height: 80px;
+    }
+
+    .big_button_text {
+    	font-size: 20px;
+    }
+
+    .big_button_text b {
+    	font-size: 18px;
+    }
+
+    .contact_button1_wrapper img {
+    	left: 305px;
+	    width: 110px;
+	    top: -70px;
+    }
+
+    .overall_flow {
+    	padding: 50px 0 30px;
+    }
+
+    .overall_flow_title_text1,
+    .overall_flow_title_text2,
+    .overall_flow_title_text3  {
+    	text-align: center;
+    	width: 100%;
+    }
+
+    .overall_flow_title {
+    	font-size: 24px;
+	    margin: 0 0 30px;
+    }
+
+    .overall_flow_step_list {
+    	width: 48%;
+    }
+
+    .customer_wrapper {
+    	padding-top: 100px;
+    }
+
+    .customer_title {
+    	font-size: 30px;
+    }
+
+    .customer_voice_list {
+    	display: block;
+    }
+
+    .customer_voice1 {
+    	margin: 0 0 50px; 
+    }
+
+    .customer_voice1,
+    .customer_voice2 {
+    	width: 100%;
+    }
+
+    .create_title {
+    	font-size: 27px;
+    }
+
+    .hp_service_subtitle {
+    	font-size: 22px;
+	    padding: 0 25px;
+    }
+
+    .linear_rotate:before {
+    	width: 30px;
+    	top: 16px;
+		left: -9px;
+    }
+
+    .create_method {
+    	display: block;
+    }
+
+    .create_list {
+    	width: 83%;
+    }
+
+    .management_list {
+    	display: block;
+    }
+
+    .management_list img {
+    	object-fit: contain;
+	    width: 100%;
+    }
+
+    .management_view {
+    	padding: 20px 18px;
+    }
+
+    .management_view_name {
+    	font-size: 17px;
+    }
+
+    .management_view p {
+    	font-size: 15px;
+    }
+
+    .support_list {
+    	width: 100%;
+    	padding: 20px;
+    }
+
+    .support_contents img {
+    	object-fit: contain;
+    	display: block;
+	    margin: 0 auto 10px;
+    }
+
+    .support_list_long {
+    	padding: 20px;
+    }
+
+    .support_list_long div {
+    	display: block;
+    }
+
+    .other {
+    	padding: 80px 0;
+    }
+
+    .other_title {
+    	font-size: 27px;
+    }
+
+    .option_service {
+    	display: block;
+    }
+
+    .option_service img {
+    	object-fit: contain;
+    	width: 100%;
+    }
+
+    .customer_support {
+    	display: block;
+    }
+
+    .customer_support img {
+    	width: 100%;
+    	object-fit: contain;
+    }
+
+    .activation {
+    	padding-top: 0;
+    	background-size: contain;
+    }
+
+    .activation_subtitle {
+    	font-size: 25px;
+    }
+
+    .activation_title {
+    	font-size: 30px;
+    }
+
+    .activation_text {
+    	margin: 20px 0;
+    }
+
+    .activation_list {
+    	width: 49%;
+    	margin: 0 0 10px;
+    }
+
+    .activation_list img {
+    	margin: 0 0 10px;
+    }
+
+    .activation_list_text_box {
+    	padding: 0 5% 20px;
+    }
+
+    .activation_list_text {
+    	margin: 5px 0 0;
+    }
+
+    .question_subtitle {
+    	font-size: 22px;
+    }
+
+    .question_title {
+    	font-size: 35px;
+    }
+
+    .medium_button {
+    	height: 80px;
+    }
+
+    .medium_button_text {
+    	font-size: 21px;
+    }
+
+    .medium_button_text b {
+    	font-size: 15px;
+    }
+
+    .contact_button2_wrapper {
+    	height: 230px;
+    	padding: 50px 0 0;
+    }
+
+    .contact_button2_wrapper img {
+    	top: 138px;
+	    width: 135px;
+    }
+
+    .contact_button2_bottom_text {
+    	padding: 10px 150px 10px 0;
+    	font-size: 12px;
+    }
+
+    .contact_button2_text_1 {
+	    font-size: 15px;
+	}
+
+	.contact_button2_text_2 {
+	    font-size: 19px;
+	}
+
+	.main_bottom_left img {
+		width: 180px;
+	}
+
+	.main_bottom_overview a {
+		font-size: 11px;
+	}
+
+	.main_bottom_info a {
+		font-size: 20px;
+	}
+
+	.main_bottom_info {
+		width: 168px;
+	}
+
+	.scroll_text {
+		font-size: 13px;
+		text-align: center;
+	}
+
+	.scroll_view {
+		display: block;
+	}
+
+	.scroll {
+		display: none;
+	}
+
+	.info_main {
+		padding: 20px 5px;
+	}
+
+	.info_main_wrapper  {
+		padding: 30px 20px;
+	}
+
+	.present_title {
+		font-size: 13px;
+	}
+
+	.present_title b {
+		font-size: 15px;
+	}
+
+	tr {
+		display: block;
+	}
+
+	.entry_field_left,
+	.entry_field_right {
+		width: 100%;
+	}
+
+	.entry_field_left {
+		height: 50px;
+		padding: 0 20px;
+	}
+
+	.entry_field_radiobutton {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.left_field {
+		font-size: 14px;
+		line-height: 15px;
+	}
+
+	.required, .any {
+		font-size: 12px;
+	    width: 28px;
+	    height: 18px;
+	}
+
+	.business_form_right {
+	    font-size: 16px;
+	    margin: 0 40px 0 0;
+	}
+
+	input[type="text"],
+	[name="pref"],
+	[type="email"] {
+		font-size: 15px;
+	}
+
+	.input_example input {
+		width: 90%;
+	}
+
+	.position {
+		font-size: 16px;
+	}
+
+	.address_field {
+		font-size: 14px;
+	}
+
+	.address_field_text2 select {
+		font-size: 14px;
+	}
+
+	.address_field_text3 input {
+	    width: 140%;
+	}
+
+	.phone_email input {
+		width: 90%;
+	}
+
+	.industry {
+		padding: 0;
+	}
+
+	.entry_field_questionnaire1 {
+		padding: 20px 0 0;
+	}
+
+	.questionnaire_title {
+	    font-size: 15px;
+	    margin: 0 10px 10px;
+	}
+
+	.questionnaire_period {
+		border: none;
+		border-top: 2px solid #cde5e6;
+		border-bottom: 2px solid #cde5e6;
+	}
+
+	.questionnaire_period p {
+		padding: 15px 20px;
+	    font-size: 14px;
+	}
+
+	.questionnaire_period_choice {
+		padding: 20px;
+	}
+
+	.questionnaire_questionnaire2 {
+		padding: 0;
+	}
+
+	.questionnaire_list_consent {
+		padding: 20px;
+	}
+
+	.consent_state {
+		padding: 15px;
+		line-height: 23px;
+		font-size: 13px;
+	}
+
+	.consent_button {
+		padding: 15px;
+		font-size: 17px;
+	}
+}
+
+@media screen and (min-width:640px) and (max-width:1023px) {
+
+	.top_main_title_1 {
+		font-size: 32px;
+	}
+
+	.accent1 {
+		font-size: 50px;
+	}
+
+	.top_main_title_2 {
+		font-size: 32px;
+		line-height: 45px;
+	}
+
+	.top_main_title_3 {
+		font-size: 60px;
+		line-height: 60px;
+	}
+
+	.top_main_title_4 {
+		font-size: 32px;
+	}
+
+	.accent2 {
+		font-size: 50px;
+	}
+
+	.top_pop1 {
+		width: 200px;
+		height: 200px;
+		background-size: contain;
+	}
+
+	.main_pop1 {
+		font-size: 25px;
+	}
+
+	.main_pop2 {
+		font-size: 50px;
+	}
+
+	.top_pop2 {
+		width: 130px;
+		height: 130px;
+		background-size: contain;
+		right: -5px;
+		top: 137px;
+	}
+
+	.img_pc img {
+		width: 450px;
+	}
+
+	.img_pc {
+		top: -120px;
+		right: -90px;
+	    z-index: 0; 
+	}
+
+	.nationwide_pop2 {
+		z-index: 1;
+	}
+
+	.nationwide_pop1 {
+		z-index: 2;
+	}
+
+	.campaign_title img {
+		width: 700px;
+	}
+
+	.campaign_new_text,
+	.campaign_renewal_text  {
+		font-size: 32px;
+	}
+
+	.campaign_option {
+		font-size: 25px;
+	}
+
+	.campaign_first_arrival {
+		font-size: 20px;
+	}
+
+	.production_details_text1,
+	.production_details_text2 {
+		text-align: center;
+	}
+
+	.speech_bubble {
+		width: 295px;
+	    background-size: contain;
+	    font-size: 14px;
+	    padding: 30px;
+	    right: 7px;
+	}
+
+	.hp_strength_img {
+		right: 40px;
+	    width: 260px;
+	}
+
+	.contact_button1_text:before {
+		left: 130px;
+	}
+
+	.contact_button1_text:after {
+		right: 140px;
+	}
+
+	.big_button {
+		width: 90%;
+	}
+
+	.contact_button1_wrapper img {
+		width: 230px;
+		left: 538px;
+		top: -171px;
+	}
+
+	.overall_flow_title_text1,
+	.overall_flow_title_text2,
+	.overall_flow_title_text3 {
+		text-align: center;
+	}
+
+	.overall_flow_step_text1,
+	.overall_flow_step_text2 {
+		font-size: 14px;
+	}
+
+	
+	.create_title,
+	.other_title {
+		font-size: 48px;
+	}
+
+	.hp_service_subtitle {
+		font-size: 33px;
+	}
+
+	.create_list {
+		width: 25%;
+		padding: 50px 25px 30px;
+	}
+
+	.create_list_top {
+		min-height: 60px;
+		height: auto;
+	}
+
+	.create_list_name {
+		text-align: center;
+	}
+
+	.create_list_sub_name {
+		text-align: center;
+	}
+
+	.management_list img {
+		object-fit: contain;
+	}
+
+	.management_view {
+		padding: 16px 38px;
+	}
+
+	.support_list {
+		width: 41%;
+	}
+
+	.support_contents img {
+		object-fit: contain;
+		margin: auto 0;
+	}
+
+	.support_contents_text {
+		padding: 0 0 0 20px;
+	}
+
+	.option_service {
+		display: block;
+	}
+
+	.option_service img {
+		object-fit: contain;
+	    width: 738px;
+	}
+
+	.customer_support {
+		display: block;
+	}
+
+	.customer_support img {
+		object-fit: contain;
+	    width: 738px;
+	}
+
+	.contact_button2_wrapper img {
+		width: 260px;
+		top:  23px;
+	}
+
+	.contact_button2_bottom_text {
+		max-width: 466px;
+	}
+
+	.medium_button_text {
+		font-size: 30px;
+	}
+
+	.scroll_button_text:before {
+		content: none;
+	}
+
+	.scroll_view {
+		height: 75px;
+	}
+
+	.scroll_text {
+		font-size: 16px;
+	    width: 46%;
+	}
+
+	.scroll_button,
+	.scroll_info {
+		width: 200px;
+		height: 70px;
+		font-size: 16px;
+	    margin: auto 4px;
+	}
+
+	.scroll_info_text1 {
+		margin-top: 7px;
+		padding: 0 0 0 3px;
+		font-size: 22px;
+	}
+
+	.scroll_info_text2 {
+		font-size: 12px;
+	}
+
+	.info_main_wrapper {
+		width: 96%;
+		padding: 40px;
+	}
+
+	.present_title {
+		font-size: 25px;
+	}
+
+	.present_title b {
+		font-size: 32px;
+	}
+
+	.entry_field_left {
+		padding: 0 20px;
+	}
+
+	.business_form_right {
+		font-size: 15px;
+	}
+
+	input[type="text"],
+	[name="pref"],
+	[type="email"] {
+		font-size: 15px;
+	}
+
+	.input_example input {
+		margin: 0 96px 0 0;
+	}
+
+	.position {
+	    margin: 0 20px 0 0;
+	    font-size: 15px;
+	}
+
+	.address_field {
+		font-size: 15px;
+		width: 110px;
+	}
+
+	.address_field_text3 input {
+	    width: 120%;
+	}
+
+	.phone_email input {
+	    margin: 0 155px 0 0;
+	}
+
+	.industry {
+		font-size: 15px;
+		padding: 0;
+	}
+
+	.questionnaire_period b::before {
+	    content: "\A" ;
+	    white-space: pre;
+	}
+
+	.confirmation_btn {
+		width: 80%;
+	}
+
+
+
+}
+
+
